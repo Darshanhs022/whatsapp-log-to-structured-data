@@ -1,0 +1,109 @@
+NOTE:
+This file contains a small, anonymised sample of WhatsApp group chat logs
+used only for reference to demonstrate parsing logic.
+
+
+12/4/25, 9:05 AM - Site Group: Morning all
+12/4/25, 9:06 AM - Site Group: Today site meeting at 11 AM
+12/4/25, 9:10 AM - Site Group: Reminder: Safety audit tomorrow
+
+
+12/4/25, 1:30 PM - Site Group: *DLR - T14*
+04/12/25
+
+1. Gypsum - 12
+2. Waterproofing -6
+3. Masonry -10
+4. Railing -0
+5. Tile - 20
+6. Carpenter - 2
+
+Total = 50
+
+
+12/4/25, 2:15 PM - Site Group: Lunch break till 3 PM
+12/4/25, 2:18 PM - Site Group: Tomorrow is holiday for site team
+
+
+12/4/25, 10:21 AM - Site Group: DLR on 04/12/25
+*TOWER -18*
+FORMWORK- 08 nos
+AL FORMWORK- 42 nos
+Barbender - 10 nos
+Unskilled - 10 nos
+Welder - 04 nos
+Hole packing & grinding - 08 nos
+Waterproofing - 5 nos
+
+Concrete qty - 212 cum
+
+
+12/4/25, 10:21 AM - Site Group: DLR on 04/12/25
+*TOWER -1*
+FORMWORK- 9 nos
+AL FORMWORK- 42 nos
+Barbender - 27 nos
+Unskilled - 10 nos
+Welder-04 nos
+Hole packing & grinding -6 nos
+Waterproofing - 3 nos
+
+
+12/3/25, 8:45 AM - Site Group: Please share yesterday report
+12/3/25, 9:00 AM - Site Group: Will send shortly
+
+
+12/3/25, 1:22 PM - Site Group: *DLR*
+03/12/2025
+*Tower-9*
+
+Unskilled-20
+Rebar-15
+Aluminium Carpenter-54
+Conventional carpenter-5
+Surveyor-2
+Welder-3
+Khalasi-6
+
+Total-105
+
+
+12/3/25, 1:29 PM - Site Group: DLR 03/12/25
+
+T15
+Alu carp 38
+Rebar 12
+Scaffoler 04
+Unskilled 12
+Structure to finishing 08
+Welder 02
+Waterproofing 00
+
+
+12/2/25, 11:00 AM - Site Group: Meeting postponed to evening
+12/2/25, 11:05 AM - Site Group: Anyone available for coordination?
+
+
+12/2/25, 4:28 PM - Site Group: Central Clubhouse DLR
+Date....02/12/2025
+
+Petal 3
+Reinforcement....02
+Shuttering....14
+Unskilled...19
+Khalasi...06
+Waterproofing...08
+Skilled mason grinder...08
+
+Petal 2
+Reinforcement....02
+Shuttering....18
+Unskilled...19
+Khalasi...06
+Skilled mason grinder...04
+
+Total....202
+
+
+12/1/25, 6:30 PM - Site Group: Tomorrow concrete pour confirmed
+12/1/25, 6:32 PM - Site Group: Ensure manpower availability
